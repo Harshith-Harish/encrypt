@@ -1,0 +1,8 @@
+Flask
+gunicorn
+google-cloud-secret-manager
+google-cloud-storage
+fsspec
+gcsfs
+python-gnupg
+Werkzeug

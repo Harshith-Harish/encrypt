@@ -1,0 +1,8 @@
+{
+	"gpg_public_key" : "<secret_manager_path>",
+    "gcs_file_path_encrypt" : "gpg_encrypted_files/",
+    "gcs_standard_file_path" : "standard_files/",
+    "standard_file_name" : "normal_file_name",
+    "gcs_bucket" : "bucket_name",
+	"recepient_name" : "<secret_manager_path>"
+}
